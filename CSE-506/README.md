@@ -1,6 +1,6 @@
 # HOMEWORK ASSIGNMENT 2
-Submitted By: Nilesh Rustagi
-SBU ID: 113259870
+* Submitted By: Nilesh Rustagi
+* SBU ID: 113259870
 
 # About the project:
 
@@ -58,7 +58,7 @@ We have used the "wrapfs" stackable file system as a starting point for this ass
 # References
     1. Code of ecryptfs
     2. https://stackoverflow.com/questions/29458157/how-to-get-a-file-list-from-a-directory-inside-the-linux-kernel for fill_dir function
-    3. *MY* HW1 Assignment for enc/dec
+    3. MY HW1 Assignment for enc/dec
     4. Wrapfs code
 
 
